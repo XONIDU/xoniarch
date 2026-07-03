@@ -6,7 +6,7 @@
 
 XONIARCH es una distribución Linux especializada que transforma Arch Linux en un entorno de **terminal gráfica fija**, diseñada específicamente para hardware de **64 bits con recursos limitados**.
 
-Este proyecto forma parte del ecosistema **XONIDU**, una organización dedicada al desarrollo de código abierto con énfasis en automatización, optimización de recursos y democratización del acceso a herramientas tecnológicas eficientes.
+Este proyecto forma parte de **XONIDU**, una organización dedicada al desarrollo de código abierto con énfasis en automatización, optimización de recursos y democratización del acceso a herramientas tecnológicas eficientes.
 
 **Versión actual:** 16.4.26
 

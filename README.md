@@ -1,6 +1,6 @@
 # XONIARCH v.16.4.26
 
-**by Darian Alberto Camacho Salas**
+**by Darian Alberto Camacho Salas and Raul Arteaga Rodriguez**
 
 ## Descripción
 
